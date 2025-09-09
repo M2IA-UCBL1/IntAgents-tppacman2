@@ -15,6 +15,7 @@ Vous devez pousser vos modifications dans votre projet git avant la date limite 
 Dans ce TP, vous devrez modifier les fichiers suivants:
 - `valueIterationAgents.py`: définition de la classe `ValueIterationAgent` pour un agent planifiant avec l'algorithme Value Iteration
 - `qlearningAgent.py`: définition des différentes classes d'agent utilisant le Q-learning.
+- `featureExtractors.py`: définition des fonctions caractéristiques pour le Q-learning approximé.
 
 et compléter le fichier [RAPPORT.md](RAPPORT.md) en utilisant le [formalisme MarkDown](https://guides.github.com/features/mastering-markdown/)
 
