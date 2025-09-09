@@ -45,10 +45,10 @@ Dans la suite,
 
 Pour tous les OS:
 
-Créer (et activer) un nouvel environnement, par exemple appelé `tppacman` avec Python 3.6. 
+Créer (et activer) un nouvel environnement, par exemple appelé `tppacman` avec Python 3.10. 
 
 ```
-conda create --name tppacman python=3.6
+conda create --name tppacman python=3.10
 conda activate tppacman
 ```
 
