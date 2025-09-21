@@ -4,7 +4,7 @@ Dans ce projet, vous allez implémenter les algorithmes Value Iteration, Q-learn
 Ces algorithmes seront testés sur différents environnements simulés (labyrinthes, un petit robot crawler, jeu de Pacman).
 
 ## Installation
-Le code est écrit en python 3.6. Pour créer un environnement virtuel pour votre TP, les explications sont [ici](README_conda.md). 
+Le code fonctionne avec python 3.10. Pour créer un environnement virtuel pour votre TP, les explications sont [ici](README_conda.md). 
 
 ## Rendu du TP
 Vous devez pousser vos modifications dans votre projet git avant la date limite (date du commit faisant foi).
