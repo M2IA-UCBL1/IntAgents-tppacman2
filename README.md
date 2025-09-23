@@ -91,7 +91,7 @@ Vous devez essayer d'obtenir les politiques optimales ci-dessous en ne modifiant
 4. qui évite les états absorbants
 
 
-**Question 3: Modifier un seul des 3 paramètres (noise, discount, livingReward) pour obtenir les politiques optimales précédentes. Préciser pour chaque politique, le paramètre modifié et sa valeur dans votre rapport et justifier votre choix.**
+**Question 3: Modifier un seul des 3 paramètres (noise, discount, livingReward) pour obtenir les politiques optimales précédentes (pour évaluer, regarder le chemin proposé par la politique optimale si l'agent n'est pas soumis au bruit).. Préciser pour chaque politique, le paramètre modifié et sa valeur dans votre rapport et justifier votre choix.**
 
 
 ## Partie 2: QLearning tabulaire
