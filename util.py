@@ -179,10 +179,14 @@ class Counter(dict):
         """
         if len(list(self.keys())) == 0:
             return None
-        all = list(self.items())
-        values = [x[1] for x in all]
-        maxIndex = values.index(max(values))
-        return all[maxIndex][0]
+        
+        max_value = max(self.values())
+        
+        return random.choice([
+            key for key, value in self.items()
+            if value == max_value
+        ])
+
 
     def sortedKeys(self):
         """
